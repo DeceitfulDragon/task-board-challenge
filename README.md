@@ -22,4 +22,4 @@ This repository should show that I can properly use jquery and day.js to make th
 
 ## Deployed Web Page
 You can find the deployed web page for this project [here!](https://deceitfuldragon.github.io/task-board-challenge/)
-![Screenshot](./assets/images/screenshot1.png "Screenshot")
+![Screenshot](./assets/images/screenshot.png "Screenshot")
