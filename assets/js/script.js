@@ -109,7 +109,7 @@ function makeTasksDraggable()
 // Make task board when the document is ready
 $(document).ready(function () 
 {
-
+    console.log("Document ready start");
     renderTaskList();
     $('#taskForm').submit(handleAddTask);
     $(".lane").droppable({
@@ -118,4 +118,5 @@ $(document).ready(function ()
     });
 
     $('#taskDeadline').datepicker();
+    console.log("Document ready end");
 });
